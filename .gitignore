@@ -1,0 +1,9 @@
+
+.DS_Store
+/.ipynb_checkpoints
+/Runs
+/Outputs
+/Archive
+/Private
+/2021April
+*.pyc
